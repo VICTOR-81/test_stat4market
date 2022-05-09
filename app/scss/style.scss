@@ -84,6 +84,11 @@ body{
         font-size: 18px;
         line-height: 35px;
         color: #331A2F;
+        transition: all .5s;
+        &:hover{
+          color: #CF51CE;
+          transition: all .5s;
+        }
       }
       ul{
         display: flex;
