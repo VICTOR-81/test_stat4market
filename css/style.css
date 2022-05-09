@@ -127,6 +127,15 @@ body {
   font-size: 18px;
   line-height: 35px;
   color: #331A2F;
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+}
+.header__top-center a:hover {
+  color: #CF51CE;
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
 }
 .header__top-center ul {
   display: -webkit-box;
