@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Lato', sans-serif;
+  src: url('../fonts/Lato-Regular.woff2') format('woff2'),
+       url('../fonts/Lato-Regular.woff') format('woff');
+  font-display: swap;
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Lato', sans-serif;
+  src: url('../fonts/Lato-SemiBold.woff2') format('woff2'),
+       url('../fonts/Lato-SemiBold.woff') format('woff');
+  font-display: swap;
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'Lato', sans-serif;
+  src: url('../fonts/Lato-Bold.woff2') format('woff2'),
+       url('../fonts/Lato-Bold.woff') format('woff');
+  font-display: swap;
+  font-weight: 700;
+}
